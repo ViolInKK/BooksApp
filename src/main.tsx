@@ -10,7 +10,7 @@ import Catalog from './views/Catalog.tsx'
 
 const router = createHashRouter([
   {
-    path: "/",
+    path: "/*",
     element: <Catalog/>
   },
   {
