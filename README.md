@@ -1,5 +1,5 @@
-# React + TypeScript + Vite + Redux
+# Book search app
 
-A basic book search app using Google Api 
+A basic book search app using Google api made with React + TypeScript + Vite + Redux 
 
-![violinkk github io_BooksApp_](https://github.com/ViolInKK/BooksApp/assets/102133609/3b99e179-99e9-4522-9e38-ffc419481d5c)
+![violinkk github io_BooksApp_ (1)](https://github.com/ViolInKK/BooksApp/assets/102133609/6c130734-4858-4d72-bdda-432a2c6e405e)
