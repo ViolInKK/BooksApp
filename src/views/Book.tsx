@@ -22,7 +22,7 @@ export const Book: FC = () => {
         <div className="bookContentContainer">
 
           <div className="bookContentImg">
-             <img src={data.imageLinks.medium || data.imageLinks.small || data.imageLinks.thumbnail}></img>
+             <img src={data.imageLinks != undefined ?  data.imageLinks.medium || data.imageLinks.small || data.imageLinks.thumbnail : ''}></img>
           </div>
 
           <div className="bookContent">
