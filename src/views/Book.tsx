@@ -13,8 +13,6 @@ export const Book: FC = () => {
     const { bookId } = useParams()    
     const { data, isFetching, error } = useFetchBookQuery(bookId)
 
-    console.log(data)
-
   return (
     <div className="Book">
         {error ? <Error/> : null}
